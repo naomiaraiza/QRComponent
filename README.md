@@ -1,51 +1,90 @@
-# Astro Starter Kit: Minimal
+# 🧩 Proyecto: Componente QR Code
 
-```sh
-npm create astro@latest -- --template minimal
+Este proyecto consiste en el desarrollo de un componente de Código QR utilizando **Astro** y **Tailwind CSS**.  
+El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**, **estilos responsivos** y **utilidades CSS** para construir un diseño limpio, moderno y adaptable a diferentes dispositivos.
+
+---
+
+## 📖 Descripción general
+
+### 🧩 Vista previa del proyecto
+Agrega aquí una **captura de pantalla** del resultado final de tu componente.  
+> Puedes usar la herramienta de captura del navegador o cualquier software de tu preferencia.
+
+![Vista previa del componente](./screenshot.jpg)
+
+---
+
+### 🔗 Enlaces del proyecto
+
+- **Repositorio en GitHub:** https://github.com/naomiaraiza/QRComponent 
+- **Sitio desplegado (opcional):** https://qr-component-sage.vercel.app 
+
+---
+
+## 🧠 Proceso de desarrollo
+
+### 🛠️ Tecnologías utilizadas
+Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo:
+
+- [Astro](https://astro.build)
+- [Tailwind CSS](https://tailwindcss.com/)
+- HTML5 semántico
+- Diseño responsivo (Mobile-first)
+- Componentes reutilizables
+
+---
+
+### 💡 Lo que aprendí
+En esta sección describe brevemente **qué aprendiste o reforzaste** al desarrollar este proyecto.  
+Puedes incluir fragmentos de código o mencionar conceptos nuevos que aplicaste.
+
+Ejemplo:
+```html
+<div class="p-4 text-center bg-white shadow-lg rounded-xl">
+  <img src="/qr-code.png" alt="QR Code" class="rounded-lg" />
+</div>
 ```
 
-<!-- ASTRO:REMOVE:START -->
+---
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+### 🚀 Áreas de mejora
 
-<!-- ASTRO:REMOVE:END -->
+Menciona aquí los aspectos que podrías mejorar o seguir practicando en futuros proyectos.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- Mejorar el manejo del responsive en pantallas pequeñas.  
+- Implementar animaciones o transiciones suaves.  
+- Explorar el uso de variables de Tailwind personalizadas.  
+- Optimizar la estructura del proyecto y el uso de componentes.  
 
-## 🚀 Project Structure
+---
 
-Inside of your Astro project, you'll see the following folders and files:
+### 📚 Recursos útiles
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+Incluye los enlaces, documentación o tutoriales que te ayudaron a completar este proyecto.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- [Documentación de Astro](https://docs.astro.build)  
+- [Guía oficial de Tailwind CSS](https://tailwindcss.com/docs)  
+- [MDN Web Docs - HTML y CSS](https://developer.mozilla.org/es/)  
+- [Guía de diseño responsivo](https://web.dev/responsive-web-design-basics/)  
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+---
 
-Any static assets, like images, can be placed in the `public/` directory.
+### 👩‍💻 Autor
 
-## 🧞 Commands
+- Nombre completo: Fatima Naomi Araiza Lopez
+- Carrera: TICS
+- Grupo: 11:00am - 12:00pm
+- Correo institucional:  23151195@aguascalientes.tecnm.mx
 
-All commands are run from the root of the project, from a terminal:
+---
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+### ✨ Reflexión final
 
-## 👀 Want to learn more?
+Comparte brevemente tu experiencia durante el desarrollo del proyecto.  
+Puedes responder a preguntas como:
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- ¿Qué fue lo más fácil o lo más difícil de realizar?  
+- ¿Qué parte disfrutaste más del desarrollo?  
+- ¿Qué conceptos nuevos aprendiste?  
+- ¿Cómo aplicarías lo aprendido en proyectos futuros?
